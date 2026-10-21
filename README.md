@@ -2,7 +2,7 @@
 
 This is a pong implementation in pygame. 
 
-Was inspired to build this after watching (Tsoding's)[https://github.com/tsoding] love2d demo [vod](https://youtu.be/CYmCwHJs-A8)
+Was inspired to build this after watching [Tsoding](https://github.com/tsoding)'s love2d demo [vod](https://youtu.be/CYmCwHJs-A8)
 
 ## References
 - [Scored Sound Effect](https://pixabay.com/sound-effects/film-special-effects-experimental-8-bit-sound-270302/)
